@@ -32,7 +32,7 @@
     }
 
     .titulo{
-        width: 100%;
+        width: 70%;
         margin: 30px 0px 0px 70px;
 
     }
@@ -71,8 +71,9 @@
     }
 
     .titulo{
-        width: 100%;
-        margin: 30px 0px 0px 15px;
+        width: 90%;
+        margin: 30px 0px 0px 5px;
+
 
     }
     .informacao{
